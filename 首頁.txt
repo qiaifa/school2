@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="tw">
+
+<head>
+<meta charset="utf-8">
+<title>燕子農夫</title>
+<meta name="description" content="銅鑼杭菊/自產自銷/黑糖薑片">
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<header>
+<h1>踏入土地的初體驗</h1>
+<nav class="navigation">
+<li><a href="#profile">了解「銅我tungˇngaiˇ」</a></li>
+<li><a href="#concert">公司簡介</a></li>
+<li><a href="project.htm">聯繫方式</a></li>
+<li><a href="book.xml">營業項目</a></li>
+<li><a href="work.htm">本月主題</a></li>
+<li><a href="https://www.nuu.edu.tw/" target="_blank">合作商城</a></li>
+  
+</ul>
+</nav>
+</header>
+
+<main>
+
+<div class="mainvisual">
+<img src="mainvisual.jpg" alt="mainvisual"width="650" height="200">
+</div>
+
+<article id="profile">
+<div class="inner">
+<h2>了解銅我tungˇngaiˇ</h2>
+<p>同我攜手去銅鑼</p>
+  <pre>
+銅鑼，說實話，是個不起眼的地方，
+但我住在這裡。
+當我看到社區居民沒有能夠遊憩的空間，
+或是許多店家都沒有足夠的收入時，
+讓我不禁懷疑銅鑼就真的要繼續沒落下去嗎?
+我不想，
+那您們呢?
+一個人的力量很小，
+如果加上您們的力量會很不一樣。
+所以我創辦了這個組織。
+歡迎想要一起為了興盛這個社區的努力地青年、老血加入!
+靠我們自己的理念為了家鄉盡一份力。
+
+<img src="moutain.jpg" alt="plant" width="300" height="200">
+<br>
+您所看到的男人，是創辦人的父親。
+<br>
+從小他就是嚮往土地，嚮往赤腳的孩子。
+<br>
+因為生活經濟上的需要，他放下了鋤頭，穿上了皮鞋。
+<br>
+如今他又重回土地懷抱了，我們很開心的邀請您共下來寮~
+
+<br>
+選擇，有很多種。
+<br>
+選擇親近自然，
+<br>
+選擇做自己喜歡的事。
+<br>
+如果您想要，
+<br>
+歡迎赤腳的踏入屬於我們的小村莊-銅鑼。
+<br>
+我們的家鄉，是銅鑼。
+我不知道您對於家鄉是否有認同感，
+但是，我知道的是「家」總是那個能夠接納您的地方。
+
+</pre>
+</article>
+</main>
+
+<footer>
+<p class="pagetop"><a href="#top">回到頂端</a></p>
+<p class="copyright"><small>&copy;CopyRight 2020qiaifa</small></a></p>
+</footer>
+</body>
+</html>
